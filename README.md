@@ -5,12 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0D6EFD&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Mahmoud+Akl;Backend+.NET+Developer+%F0%9F%92%BB;Building+Scalable+APIs+with+C%23+%26+SQL;Clean+Code+%7C+Agile+Mindset;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80" />
-</p>
-
-<!-- Profile GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding-gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0D6EFD&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mahmoud+Akl;Backend+.NET+Developer+%F0%9F%92%BB;Building+Scalable+APIs+with+C%23+%26+SQL;Clean+Code+%7C+Agile+Mindset;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
