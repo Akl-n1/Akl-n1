@@ -1,11 +1,11 @@
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=150&section=header&text=Mahmoud%20Akl&fontSize=40&fontColor=ffffff&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=180&section=header&text=Mahmoud%20Akl&fontSize=40&fontColor=ffffff&animation=fadeIn">
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=130&lines=🚀+Backend+.NET+Developer;💡+Building+Scalable+Web+Apps+%26+APIs;☕+Coffee+Lover+%7C+Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&height=110&lines=🚀+Backend+.NET+Developer;💡+Building+Scalable+Web+Apps+%26+APIs;☕+Coffee+Lover+%7C+Continuous+Learner" />
 </p>
 
 ---
