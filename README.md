@@ -1,13 +1,16 @@
-<!-- Hero Banner -->
+<!-- Header with animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0d6efd&text=Mahmoud%20Akl&fontColor=ffffff&fontSize=38&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d6efd&text=Mahmoud%20Akl&fontColor=ffffff&fontSize=40&fontAlignY=35" />
 </p>
 
-<!-- Bio section -->
-<h2 align="center">👋 Hi there, I'm Mahmoud</h2>
+<!-- Typing animation -->
 <p align="center">
-  Passionate <strong>.NET Backend Developer</strong> crafting scalable APIs, database-driven systems, and clean architectures using modern Microsoft technologies.<br/>
-  I love solving complex backend problems and delivering elegant solutions that scale.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0D6EFD&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Mahmoud+Akl;Backend+.NET+Developer+%F0%9F%92%BB;Building+Scalable+APIs+with+C%23+%26+SQL;Clean+Code+%7C+Agile+Mindset;Let%E2%80%99s+build+something+awesome+%F0%9F%9A%80" />
+</p>
+
+<!-- Profile GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding-gif" />
 </p>
 
 <p align="center">
