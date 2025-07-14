@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=🚀+Backend+.NET+Developer;💡+Building+Scalable+Web+Apps+%26+APIs;☕+Coffee+Lover+%7C+Continuous+Learner">
 </p>
 
+
+
 ---
 
 ### 👨‍💻 About Me
@@ -34,10 +36,8 @@ Hi! I'm **Mahmoud Akl**, a passionate **.NET Backend Developer** specializing in
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger)
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,sqlserver,azure,github,git,postman,swagger,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,sqlserver,azure,github,git,postman,swagger,visualstudio" />
 </p>
 
 ---
@@ -49,9 +49,11 @@ Hi! I'm **Mahmoud Akl**, a passionate **.NET Backend Developer** specializing in
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Akl-n1&theme=radical" width="47%"/>
 </div>
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akl-n1&layout=compact&theme=radical" width="47%"/>
 </div>
+
 
 ---
 
