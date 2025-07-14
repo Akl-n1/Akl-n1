@@ -1,6 +1,6 @@
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Mahmoud%20Akl&fontSize=40&fontColor=ffffff&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=150&section=header&text=Mahmoud%20Akl&fontSize=40&fontColor=ffffff&animation=fadeIn">
 </p>
 
 <!-- Typing Animation -->
@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 
 Hi! I'm **Mahmoud Akl**, a passionate **.NET Backend Developer** specializing in building scalable and high-performance **Web APIs** and **backend systems**.
@@ -20,9 +19,7 @@ Hi! I'm **Mahmoud Akl**, a passionate **.NET Backend Developer** specializing in
 🔹 Coffee addict ☕ and lover of continuous learning
 
 🌐 Check out my portfolio 👉 [akl-n1.github.io/Profile](https://akl-n1.github.io/Profile/)
-
 ---
-
 ### 🧰 Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-181717?style=flat-square&logo=csharp&logoColor=white)
@@ -34,9 +31,7 @@ Hi! I'm **Mahmoud Akl**, a passionate **.NET Backend Developer** specializing in
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger)
-<p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,csharp,sqlserver,azure,github,git,postman,swagger,visualstudio" />
-</p>
 
 ---
 
