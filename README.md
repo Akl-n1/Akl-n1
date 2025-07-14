@@ -1,1 +1,83 @@
- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">  <h3 align="center">   Welcome to Mahmoud AKl  profile!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3>  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg --> <p align="center">   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a> </p>   - 🏢 I'm a Software Engineer - Backend Developer 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills. - 💬 Ask me about my experience with C#, SQL sqrver, and ASP.Net, or anything related to web development. - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. - ### Connect with Me :  <a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>  <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>  ### 🛠 &nbsp;Tech Stack ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp; ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp; ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> <br> <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">     <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge"> </a>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<h3 align="center">Welcome to Mahmoud Akl's GitHub Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20.NET%20Backend%20Developer;Building%20scalable%20APIs%20with%20C%23%20%26%20SQL%20Server;Always%20learning%20and%20growing&font=Fira%20Code&center=true&width=500&height=45&color=00bfff&vCenter=true&size=22">
+  </a>
+</p>
+
+---
+
+🚀 **About Me**
+
+Passionate **Backend .NET Developer** with solid experience in designing and developing **scalable**, **high-performance** web applications and APIs.  
+Skilled in leveraging **.NET Core**, **C#**, and **SQL Server** to build robust backend solutions that meet complex business needs.
+
+🔧 **Key Projects I've Worked On:**
+
+- Real-time order processing systems  
+- Healthcare appointment management APIs  
+- Financial transaction reconciliation tools  
+
+💻 **My Tech Toolbox:**
+
+- **Languages & Frameworks:**  
+  .NET Core, C#, ASP.NET Core Web API, Entity Framework Core, T-SQL
+
+- **Tools & Platforms:**  
+  Visual Studio, Git, GitHub, Postman, Swagger
+
+- **Practices:**  
+  RESTful services, Clean Architecture, Asynchronous Programming, Unit Testing, Agile & Scrum
+
+☕ **Fun Fact:**  
+My perfect day starts and ends with a good cup of **coffee** ☕.
+
+---
+
+### 🧰 &nbsp;Tech Stack
+
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-05122A?style=flat&logo=dotnet)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=ef)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
+
+---
+
+### 📈 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudUsername&layout=compact&theme=radical" alt="Top Languages" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MahmoudUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+<br clear="both"/>
+
+---
+
+### 🤝 Connect With Me
+
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Mahmoud%20Akl-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/yourtelegram" target="_blank">
+  <img src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162px !important;" >
+</a>
+
+---
+
+<a href="https://komarev.com/ghpvc/?username=MahmoudUsername&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudUsername&style=for-the-badge">
+</a>
